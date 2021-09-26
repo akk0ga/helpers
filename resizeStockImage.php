@@ -69,4 +69,5 @@ function resizeImg(array $image, int $newWidth, int $newHeight, string $path, st
     }else{
         return false;
     }
+    return false;
 }
